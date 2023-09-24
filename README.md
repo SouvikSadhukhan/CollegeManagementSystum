@@ -1,0 +1,2 @@
+# CollegeManagementSystum
+In Python Language
